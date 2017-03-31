@@ -25,7 +25,7 @@
   - Memory: 2G
   - Network: Bridge
   - Hard disk: 80G -> System disk (Ubuntu 16.04.1 amd64 Desktop)
-  - Hard disk: 10G -> Cache disk (/dev/sdb)
+  - Hard disk: 10G -> Cache disk (/dev/sdb) -> 1G for meta cache, 5G for cache
   - Hard disk: 20G -> Storage disk (/dev/sdc)
   - Others: Default
   
