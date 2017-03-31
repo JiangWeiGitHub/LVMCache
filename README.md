@@ -43,5 +43,5 @@
   lvs
   pvs
   lvconvert --type cache-pool --poolmetadata vghardandssd/lvssdmeta vghardandssd/lvssd
-  lvconvert --type cache --cachepool  vghardandssd/lvssd vghardandssd/lvhard
+  lvconvert --type cache --cachepool vghardandssd/lvssd vghardandssd/lvhard
 ```
